@@ -25,5 +25,5 @@ git clone https://github.com/7ahiry/GitAutoCommit.vim.git
 
 ## Usage
 
-Do not enter a commit message to abort. Note that when new file is
+Do not enter a commit message to abort. Note that when new file is saved, it is
 automatically added and commited. 
