@@ -23,3 +23,7 @@ cd ~/.vim/bundle
 git clone https://github.com/7ahiry/GitAutoCommit.vim.git
 ```
 
+## Usage
+
+Do not enter a commit message to abort. Note that when new file is
+automatically added and commited. 
